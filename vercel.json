@@ -1,0 +1,8 @@
+{
+  "framework": null,
+  "functions": {
+    "api/evidence.js": {
+      "maxDuration": 30
+    }
+  }
+}
